@@ -1,6 +1,6 @@
 # Efficacy metrics drug
 ![](https://zenodo.org/badge/DOI/10.5281/zenodo.897680.svg)
-![](https://i.creativecommons.org/l/by/4.0/80x15.png)
+[![](https://i.creativecommons.org/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
 
 ## File content
 
