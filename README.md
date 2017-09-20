@@ -13,3 +13,8 @@ On the sheets "summary finding", the main outputs of computations are shown.
 ## File format
 
 The format used is [uncompressed OpenDocument XML](https://en.wikipedia.org/wiki/OpenDocument) (with the fods extension).
+
+
+## Cite as
+
+Jean Pierre Boissel, & Jean Ponchon. (2017). novadiscovery/efficacy-metrics-drug: Efficacy metrics drug [Data set]. Zenodo. http://doi.org/10.5281/zenodo.897708
